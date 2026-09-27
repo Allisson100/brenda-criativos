@@ -52,7 +52,7 @@ desktop.ini
 # Deployment Protection ligada), comente as linhas abaixo para
 # subir a mídia junto.
 # ---------------------------------------------------------------
-src/criativos/*
+# src/criativos/*
 !src/criativos/LEIA-ME.md
 !src/criativos/.gitkeep
 !src/criativos/_demo.mp4
